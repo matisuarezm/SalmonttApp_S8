@@ -1,4 +1,4 @@
-# 📘 Proyecto: Interfaces y Gráfica en SalmonttApp
+# 📘 Proyecto: Interfaces e Instanceof en SalmonttApp
 
 ## 📝 Descripción general del sistema
 
