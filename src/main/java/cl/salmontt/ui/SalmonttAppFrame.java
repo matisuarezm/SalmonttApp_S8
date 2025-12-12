@@ -215,8 +215,6 @@ public class SalmonttAppFrame extends JFrame{
             JOptionPane.showMessageDialog(this, "Registro realizado correctamente");
         } catch (ValidaRutException e) {
             JOptionPane.showMessageDialog(this, e.getMessage());
-        }catch (NumberFormatException e) {
-            JOptionPane.showMessageDialog(this, "Valida el sueldo ingresado");
         }
 
     }
